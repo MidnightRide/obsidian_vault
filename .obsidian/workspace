@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "b1aa56e9db39e316",
+    "type": "split",
+    "children": [
+      {
+        "id": "5829497bd33a8a78",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "schoolwork/science/study/mutations.md",
+            "mode": "source"
+          }
+        },
+        "group": "041528cb798d9829"
+      },
+      {
+        "id": "0f2b1fa81adaf1cc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "schoolwork/science/study/mutations.md",
+            "mode": "preview"
+          }
+        },
+        "group": "041528cb798d9829"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4024f5b80517a033",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5c7fa47805ec290",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f19a08df66a55c83",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "303b3e8094ecca2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a8993f8c6f0bd9e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1899e3d087719bc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13f7e22c96295feb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "schoolwork/science/study/mutations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5829497bd33a8a78",
+  "lastOpenFiles": [
+    "schoolwork/science/study/mutations.md",
+    "schoolwork/science/study.md",
+    "schoolwork/science/revision.md",
+    "schoolwork/catchall_science.md",
+    "schoolwork/science/study/protein_synthesis.md",
+    "game_development/deaths_despair.md",
+    "Pasted image 20210920104636.png",
+    "schoolwork/catchall_schoolwork.md",
+    "Pasted image 20210920070738.png",
+    "Pasted image 20210920072040.png"
+  ]
+}
