@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/science/study/mutations.md",
+            "file": "catchall_obsidian_vault.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/science/study/mutations.md",
+            "file": "catchall_obsidian_vault.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schoolwork/science/study/mutations.md",
+                "file": "catchall_obsidian_vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "5829497bd33a8a78",
   "lastOpenFiles": [
+    "catchall_obsidian_vault.md",
+    "schoolwork/catchall_science.md",
+    "README.md",
     "schoolwork/science/study/mutations.md",
     "schoolwork/science/study.md",
     "schoolwork/science/revision.md",
-    "schoolwork/catchall_science.md",
     "schoolwork/science/study/protein_synthesis.md",
     "game_development/deaths_despair.md",
     "Pasted image 20210920104636.png",
-    "schoolwork/catchall_schoolwork.md",
-    "Pasted image 20210920070738.png",
-    "Pasted image 20210920072040.png"
+    "schoolwork/catchall_schoolwork.md"
   ]
 }

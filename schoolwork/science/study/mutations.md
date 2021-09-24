@@ -23,7 +23,7 @@
 
 > **NOTE** Deletions and insertions are also caused **frameshift mutations** because they shift the frame of the genetic message, offsetting and changing the message of all following codons.
 
-### Chromsomal Mutations
+### Chromosomal Mutations
 --- 
 - **Chromosomal mutations** are mutations that affect large regions of DNA that is  contained within chromosomes. This may affect the entire chromosome.
 - *Chromsomal mutations* include **deletion**, **duplication**, **Inversion** and **translocation**:
