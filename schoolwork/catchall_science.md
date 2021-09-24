@@ -4,5 +4,5 @@
 - [x] Create a task list.
 ## Data Catchall
 --- 
-- [[study]]
-- [[revision]]
+- [[catchall_study]]
+- [[catchall_revision]]
