@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/science/catchall_study.md",
+            "file": "schoolwork/science/study/natural_selection.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/science/catchall_study.md",
+            "file": "schoolwork/science/study/natural_selection.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schoolwork/science/catchall_study.md",
+                "file": "schoolwork/science/study/natural_selection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "5829497bd33a8a78",
   "lastOpenFiles": [
-    "schoolwork/science/catchall_study.md",
+    "schoolwork/science/study/the_theory_of_evolution.md",
+    "schoolwork/science/study/genetic_inheritance.md",
     "schoolwork/science/study/Untitled.md",
-    "schoolwork/science/revision.md",
-    "schoolwork/science/study.md",
-    "schoolwork/catchall_science.md",
-    "schoolwork/science/study/mutations.md",
-    "catchall_obsidian_vault.md",
-    "README.md",
-    "schoolwork/science/study/protein_synthesis.md",
-    "game_development/deaths_despair.md"
+    "schoolwork/science/catchall_study.md",
+    "schoolwork/science/catchall_revision.md",
+    "Pasted image 20210925182942.png",
+    "Pasted image 20210925184514.png",
+    "Pasted image 20210920105803.png",
+    "Pasted image 20210920104336.png",
+    "game_development/handmade_hero.md"
   ]
 }

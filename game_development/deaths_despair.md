@@ -10,6 +10,7 @@
 - [x] Fix u32 problems with wrapping in the world.
 - [x] Fix this fullscreen nonsense.
 - [ ] Pixel scaling? Do we want to do this when we implement OpenGL or now? I think OpenGL for now because I am lazy.
+- [ ] Add asset tags when required. Usage code not neccessary right now.
 ##  Planning
 - _`Metroidvania`_
 	- Exploratory, _'open world' 2D sidescroller_.
