@@ -1,6 +1,5 @@
 # Protein Synthesis
 ## The Genetic Code
---- 
 > **Proteins** are polymers made up  of **polypeptides** (chains of amino acids).
 
  - Proteins make up *major structures*, *organelles*, and *specific enzymes*. 
@@ -18,7 +17,6 @@
  - **universal** (the structure and components of DNA are the same in all living organisms).
 
 ## Protein Synthesis
---- 
 There are two processes involved in **protein synthesis**:
 - **transcription** the relevant gene in DNA is copied into a molecule of RNA called *mRNA* (messenger RNA) by the enzyme **RNA polymerase**. The steps of transcription are as follows:
 	- The DNA double helix unzips as hydrogens bonds between the complementary bases break and the two strands seperate.

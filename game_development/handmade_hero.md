@@ -1,5 +1,4 @@
 # Handmade Hero
----
 ## Task List
 - [ ] Work on the renderer.
 - [ ] Don't get burned out.

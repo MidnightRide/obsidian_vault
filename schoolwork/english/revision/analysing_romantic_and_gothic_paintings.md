@@ -1,6 +1,5 @@
 # Analysing Romantic & Gothic Paintings
 ## Characteristics of `Romanticism`
----
 There are several key characteristics of romanticism.
 - Imagination.
 - Intuition.
@@ -15,7 +14,6 @@ There are several key characteristics of romanticism.
 - Artist is an _individualistic creator_ whose cretive spirit was of __supreme importance__.
 
 ## The Five `I`s of Romanticism
----
 - Imagination - _necessary for creating art._
 - Intuition - _emotions were important._
 - Idealism - _desire to make the world a better place._
@@ -23,5 +21,4 @@ There are several key characteristics of romanticism.
 - Individuality - _celebrating the individual experience._
 
 ## Sublime Definition
----
 > __Sublime__ adjective of lofty, grand or exalted in thought, expression or manner. Of outstanding spiritual, intellectual or moral worth. Tending to inspire awe usually because of elevated quality. Extremely good, beatiful. 

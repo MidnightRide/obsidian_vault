@@ -1,5 +1,4 @@
 # The Big Bang
----
 There are several eras proceeding the big bang:
 - `The Planck Era` immediately after the event which began the universe, from *0 to approximately 10-43 seconds*.
 - `The Grand Unified Theory (GUT) Era` three of the four fundamental forces are combined, however gravity is distinct. Lasted from *10<sup>-43</sup>s to 10^<sup>-38</sup>s*.
