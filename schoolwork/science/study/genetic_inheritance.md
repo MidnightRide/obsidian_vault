@@ -9,7 +9,7 @@
 	-	**Mendel's law of independent assortment:**
 		-	The **segregation of alleles for one gene occurs independently** to that of any other gene. This law applies in all cases except when the genes are linked *(situated on the same chromosome)*.
 
-![[Pasted image 20210925182942.png]]
+![[principle_of_dominance.png]]
 
 ## Genotype and Phenotypes
 - The law of segregation does not completely explain why Mendel often found that one form of the characteristic he was examining would disappear from the offspring but reappear in subsequent generations during his  crosses.
@@ -47,7 +47,7 @@
 ## Test Crosses
 - A **test cross** is used to test an individual with a dominant phenotype to determine whether it is *heterozygous* or *homozygous*. 
 
-![[Pasted image 20210925184514.png]]
+![[monohybrid_crosses.png]]
 
 - When the unknown dominant phenotype is breeded with a known recessive genotype, the resulting offspring probabilities *indicate whether the unkown dominant phenotype is heterozygous or homozygous*, as a homozygous genotype would result in a 100% dominant phenotypic ratio in it's offspring. 
 
@@ -56,7 +56,7 @@
 - Because there are two genes, each with two alleles, there can be **up to four different gamete combinations**. 
 - The easiest way to work out potential gamete combinations in a dihybrid cross is to use the **FOIL** method.
 
-![[Pasted image 20210925185017.png]]
+![[foil.png]]
 
 - You can then simply generate a 4 x 4 table and "add" the genotypes to produce the resulting probabilities.
 

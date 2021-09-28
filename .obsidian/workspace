@@ -6,10 +6,11 @@
       {
         "id": "5829497bd33a8a78",
         "type": "leaf",
+        "dimension": 50.36363636363637,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/science/study/evidence_for_evolution.md",
+            "file": "schoolwork/science/study/ionic_and_covalent_compounds.md",
             "mode": "source"
           }
         },
@@ -18,10 +19,11 @@
       {
         "id": "0f2b1fa81adaf1cc",
         "type": "leaf",
+        "dimension": 49.63636363636363,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/science/study/evidence_for_evolution.md",
+            "file": "schoolwork/science/study/ionic_and_covalent_compounds.md",
             "mode": "preview"
           }
         },
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schoolwork/science/study/evidence_for_evolution.md",
+                "file": "schoolwork/science/study/ionic_and_covalent_compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +103,15 @@
   },
   "active": "5829497bd33a8a78",
   "lastOpenFiles": [
-    "schoolwork/science/study/evidence_for_evolution.md",
-    "README.md",
-    "catchall_schoolwork.md",
-    "schoolwork/catchall_science.md",
-    "schoolwork/catchall_english.md",
-    "schoolwork/science/catchall_study.md",
-    "schoolwork/science/catchall_revision.md",
+    "schoolwork/science/study/ionic_and_covalent_compounds.md",
+    "schoolwork/science/study/genetic_inheritance.md",
+    "schoolwork/science/study/human_evolution.md",
+    "schoolwork/science/study/natural_selection.md",
+    "schoolwork/science/study/mutations.md",
     "schoolwork/science/study/selection_pressures.md",
     "schoolwork/science/study/protein_synthesis.md",
-    "schoolwork/science/study/natural_selection.md"
+    "schoolwork/catchall_english.md",
+    "schoolwork/science/catchall_revision.md",
+    "Pasted image 20210928184723.png"
   ]
 }

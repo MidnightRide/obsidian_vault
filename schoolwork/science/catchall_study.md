@@ -25,3 +25,5 @@
 | | [[selection_pressures]] | ✅ | *Average* |
 | | [[factors_for_survival]] | ❎ | *Trivial* |
 | | [[human_evolution]] | ✅ | *Trivial* |
+| Atoms and the Periodic Table | [[nuclear_structure_and_radioactivity]] | ✅ | *Urgent* |
+|  | [[ionic_and_covalent_compounds]] | ❎ | *Urgent* |
