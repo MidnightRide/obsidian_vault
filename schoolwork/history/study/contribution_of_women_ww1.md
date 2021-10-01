@@ -28,5 +28,8 @@
 #### Anti-war activism and pacifism
 - Some women's organisations campaigned against the war and *conscription*. For example, the **Women's Peace Army** was formed in 1915 by two Melbourne women, **Vida Goldstein** and **Cecilia	John**.
 ### Women Oversees
-- Women have played significant roles as *nurses in wartime*. In the South African War and World War I, the main service roles  
+- Women have played significant roles as *nurses in wartime*. In the South African War and World War I, the main service roles open to women were:
+	- *nurses*
+	- *medical support roles*, such as blood transfusionists and masseuses *(medical therapists)*.
+	- *volunatry *
 ## Contention
