@@ -1,6 +1,8 @@
 # Explain the contribution of Australian women to the war effort during the First World War
-## Brainstorm
 ## Research
+### `Keyword`
+> **Explain** *relate cause and effect; make the relationships between things evident; provide why/or how*.
+
 ### Volunteering in Australia
 - In **World War I**, many Australian women on the *home front (the civilian population and activities of a nation whose armed forces are engaged in war abroad)* took on voluntary comfort and fundraising roles to support the troops overseas.
 - There were several **women's organisations** that were active during the war, including:
@@ -74,10 +76,10 @@
 	- *436567* after the war, or about 16% of the female population.
 - Women in Australia had been able to vote in federal elections and to stand for the federal Parliament since 1902, and vote in state elections since 1911, however their increased participation in the workforce during the war didn't open up new occupations.
 - Those who took on paid work for the first time were mostly employed in *traditionally female occupied roles*.
-- Fewer women worked in managerial and primary industry roles in 1921 compared to 1911, but other categories of employment remained unchanged. The five main areas of employment for women in 1921 were:
-	-  personal, domestic and service workers
-	-  craftsmen and foremen
-	-  lower professional
-	-  shop assistants
-	-  clerical and related workers
+- Fewer women worked in managerial and primary industry roles in *1921* compared to *1911*, but other categories of employment remained unchanged. The five main areas of employment for women in *1921* were:
+	-  *personal, domestic and service workers*
+	-  *craftsmen and foremen*
+	-  *lower professional*
+	-  *shop assistants*
+	-  *clerical and related workers*
 ## Contention
