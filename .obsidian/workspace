@@ -8,10 +8,9 @@
         "type": "leaf",
         "dimension": 50.36363636363637,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "schoolwork/history/study/contribution_of_women_ww1.md",
-            "mode": "source"
+            "file": "Pasted image 20211001164253.png"
           }
         },
         "group": "041528cb798d9829"
@@ -21,10 +20,9 @@
         "type": "leaf",
         "dimension": 49.63636363636363,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "schoolwork/history/study/contribution_of_women_ww1.md",
-            "mode": "preview"
+            "file": "Pasted image 20211001164253.png"
           }
         },
         "group": "041528cb798d9829"
@@ -62,6 +60,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "49e86660c3bb3e38",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -83,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schoolwork/history/study/contribution_of_women_ww1.md",
+                "file": "Pasted image 20211001164253.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +109,15 @@
   },
   "active": "5829497bd33a8a78",
   "lastOpenFiles": [
-    "schoolwork/history/study/contribution_of_women_ww1.md",
-    "schoolwork/history/history_study.md",
-    "schoolwork/history/study/Untitled.md",
-    "schoolwork/catchall_history.md",
+    "Pasted image 20211001164253.png",
+    "aufbau_principle.png",
+    "Pasted image 20211001164251 1.png",
+    "Pasted image 20211001164251.png",
+    "schoolwork/science/study/electron_configuration.md",
+    "schoolwork/science/study/Untitled.md",
+    "schoolwork/science/study/periodic_table_trends.md",
     "schoolwork/science/science_study.md",
     "schoolwork/science/science_revision.md",
-    "schoolwork/science/science_study 1.md",
-    "schoolwork/science/catchall_study.md",
-    "schoolwork/science/catchall_revision.md",
-    "schoolwork/catchall_science 1.md"
+    "schoolwork/science/study/protein_synthesis.md"
   ]
 }
