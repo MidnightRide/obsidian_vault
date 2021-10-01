@@ -63,7 +63,21 @@
 	- *Staff Nurse Rachael Pratt*
 	- *Sister Pearl Corkhill*
 - Of all the women who served in the **AANS** during the war, 23 died from illness or wounds. There area also records of one Australian women who spent time as *prisoner of war*.
+
 > **Ethel Gillingham** was a trained nurse from western Victoria. In England at the outbreak of war, Gillingham joined the *British Red Cross Society*. In April 1915, Gillingham went with her unit to a hospital in *Vrnjatchka Banja, Serbia*. 
 > 
-> When the town fell to Austrian troops on *10 November 1915*, she was captured. Along with the rest of her unit, 
+> When the town fell to Austrian troops on *10 November 1915*, she was captured. Along with the rest of her unit, Gillingham was released unharmed. She safely reached Belgrade in *February 1916*.
+
+### Impact of Wartime Employment
+- The total Australian female workforce was:
+	- *368457* before the war, or about 17% of the female population.
+	- *436567* after the war, or about 16% of the female population.
+- Women in Australia had been able to vote in federal elections and to stand for the federal Parliament since 1902, and vote in state elections since 1911, however their increased participation in the workforce during the war didn't open up new occupations.
+- Those who took on paid work for the first time were mostly employed in *traditionally female occupied roles*.
+- Fewer women worked in managerial and primary industry roles in 1921 compared to 1911, but other categories of employment remained unchanged. The five main areas of employment for women in 1921 were:
+	-  personal, domestic and service workers
+	-  craftsmen and foremen
+	-  lower professional
+	-  shop assistants
+	-  clerical and related workers
 ## Contention
