@@ -20,4 +20,8 @@
 - No two electrons in an atom have the **same quantum numbers**, as stated by the *Pauli Exclusion Principle*. This is because any orbital can only hold up to two electrons, and two electrons in the same orbital must have different spin values, or **m<sub>s</sub>**.
 - The **Aufbau Principle** tells us the order in which an atom will fill up it's electrons.
 
-![[Pasted image 20211001164253.png]]
+![[aufbau_principle.png]]
+
+- The **Aufbau Principle** is termined by the orbital's relative energies.
+
+![[energy_levels_orbitals.png]]
