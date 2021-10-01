@@ -55,5 +55,15 @@
 	-  *91* were older than 40
 - Some nurses paid their own way to be involved in medical service during the war. Some served in *non-profit organisations*, such as the **British Red Cross Society**.
 - While working in the *casualty* in the *casualty clearing stations* in France, 7 nurses from the **AANS** were awarded the *Military Medal* for bravery and service under fire:
-	- 	
+	- *Sister Dorothy Cawood*
+	- *Sister Clara Deacon*
+	- *Staff Nurse Mary Jane Derrer*
+	- *Staff Nurse Alice Ross-King*
+	- *Sister in Charge Alicia Kelly*
+	- *Staff Nurse Rachael Pratt*
+	- *Sister Pearl Corkhill*
+- Of all the women who served in the **AANS** during the war, 23 died from illness or wounds. There area also records of one Australian women who spent time as *prisoner of war*.
+> **Ethel Gillingham** was a trained nurse from western Victoria. In England at the outbreak of war, Gillingham joined the *British Red Cross Society*. In April 1915, Gillingham went with her unit to a hospital in *Vrnjatchka Banja, Serbia*. 
+> 
+> When the town fell to Austrian troops on *10 November 1915*, she was captured. Along with the rest of her unit, 
 ## Contention
