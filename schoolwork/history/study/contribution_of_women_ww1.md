@@ -83,3 +83,7 @@
 	-  *shop assistants*
 	-  *clerical and related workers*
 ## Contention
+### Main Points
+- 
+## Essay *(Work In Progress)*
+[[assesment_task_2_research_task]]
