@@ -9,10 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/science/study/electron_configuration.md",
+            "file": "schoolwork/science/study/chemical_changes.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "0c9f611c3d5a1074"
       },
       {
         "id": "4099ee2e6d04c6ac",
@@ -20,10 +21,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/science/science_study.md",
+            "file": "schoolwork/science/study/chemical_changes.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "0c9f611c3d5a1074"
       }
     ],
     "direction": "vertical"
@@ -87,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schoolwork/science/study/electron_configuration.md",
+                "file": "schoolwork/science/study/chemical_changes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +109,15 @@
   },
   "active": "3e1fd67818aff57f",
   "lastOpenFiles": [
-    "schoolwork/science/study/electron_configuration.md",
+    "schoolwork/science/study/chemical_changes.md",
+    "Pasted image 20211002181708.png",
+    "Pasted image 20211002181659.png",
+    "particle_theory_solid.png",
+    "Pasted image 20211002181643.png",
     "schoolwork/science/science_study.md",
+    "schoolwork/science/study/Untitled.md",
     "schoolwork/science/science_revision.md",
-    "schoolwork/history/study/women_organisations_in_ww1.md",
-    "schoolwork/history/study/contribution_of_women_ww1.md",
-    "schoolwork/history/history_study.md",
-    "schoolwork/history/study/assesment_task_2_research_task.md",
-    "schoolwork/history/study/Untitled.md",
-    "schoolwork/science/study/biodiversity.md",
-    "schoolwork/science/study/factors_for_survival.md"
+    "schoolwork/science/study/electron_configuration.md",
+    "schoolwork/history/study/women_organisations_in_ww1.md"
   ]
 }
