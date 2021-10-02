@@ -66,4 +66,17 @@
 - The **law of conservation of mass** states that matter can neither be created nor destroyed during a chemical reaction, only transformed.
 - During any physical or chemical change, the total mass of the products remains equal to the total mass of the reactants.
 - *Lavoisier* also provided evidence for:
-	- the **law of constant proportions**, which states that a compound, no matter how it is formed, always contains the same relative amounts of 
+	- the **law of constant proportions**, which states that a compound, no matter how it is formed, always contains the same relative amounts of each element.
+
+## Types of Reactions
+- **Synthesis / combination** reactions are a reaction in which two or more substances combine to form a single new substance.
+- **Decomposition** reactions are a reaction in which a compound breaks  down into two or more simpler substances.
+	- Types of decomposition reactions include:
+		- *thermal decomposition*, where heat breaks down components into simpler substances.
+		- *electrolysis*, where electrical energy decomposes reactions.
+		- *photolysis*, decomposition of compounds via light energy.
+- **Combustion reactions** are a reaction in which a substance reacts with oxygen gas, releasing energy in the form of light and heat.
+	- **Incomplete combustion** takes place in the presence of insufficient amount of oxygen. The flame type is *yellow* as opposed to *blue*, and the smoke is *sooty*. It also usually prodoces *CO* as a primary product as opposed to *CO<sub>2</sub>*.
+- **Acid - base** reactions involve:
+	-  *acid + reactive metal -> salt + hydrogen* dilute acids are added to *main-group metals* and some transition metals. Bubbles of hydrogen gas are released and salt is formed.
+	- *acid + metal hydroxide -> salt + water* soluble metal hydroxides dissociate in water to form metal cations and hydroxide ions.

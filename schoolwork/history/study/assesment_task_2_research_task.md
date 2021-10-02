@@ -1,2 +1,2 @@
 # Assesment  Task 2 Research Task
-Australian women, and the organizations they worked for, had an important and substantial contribution to the war effort during the First World War. 
+Australian women, had an important contribution to the war effort during the First World War, working in several organizations such as the Australian Red Cross and *insert organization here* at the home front. These women played an important role in promoting patriotism and urging men to enlist, both oversees and domestic. Additionally, women played significant roles in service roels open to women. 
