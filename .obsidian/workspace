@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "schoolwork/history/study/women_organisations_in_ww1.md",
+                "file": "schoolwork/history/study/contribution_of_women_ww1.md",
                 "mode": "preview"
               }
             }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schoolwork/history/study/women_organisations_in_ww1.md",
+                "file": "schoolwork/history/study/contribution_of_women_ww1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0f2b1fa81adaf1cc",
+  "active": "5829497bd33a8a78",
   "lastOpenFiles": [
-    "schoolwork/history/study/women_organisations_in_ww1.md",
     "schoolwork/history/study/contribution_of_women_ww1.md",
+    "schoolwork/history/study/women_organisations_in_ww1.md",
+    "schoolwork/history/history_study.md",
     "schoolwork/history/study/assesment_task_2_research_task.md",
     "schoolwork/history/study/Untitled.md",
     "schoolwork/science/science_study.md",
     "schoolwork/science/science_revision.md",
     "schoolwork/science/study/electron_configuration.md",
     "schoolwork/science/study/biodiversity.md",
-    "schoolwork/science/study/factors_for_survival.md",
-    "schoolwork/science/study/human_evolution.md"
+    "schoolwork/science/study/factors_for_survival.md"
   ]
 }

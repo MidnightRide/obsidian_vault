@@ -90,4 +90,6 @@
 
 ## Bibliography
 - [ ] **Put this into Harvard / Oxford format**.  
+
 [Australian Women's National League Wikipedia](https://en.wikipedia.org/wiki/Australian_Women%27s_National_League)
+[The Australian Red Cross in two world wars](https://www.awm.gov.au/articles/encyclopedia/redcross/redcross_bothwars)
