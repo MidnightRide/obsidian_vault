@@ -13,7 +13,7 @@
 		-  When **l** equals one, we are describing *p* orbitals, which are lobes that extend outwards on three axes. There are three p orbitals per energy level. 
 		-  When **l** is equal to 2, we are describing *d* orbitals. There are five *d* orbitals per energy level. 
 		-  When **l** is equal to 3, we are describing *f* orbitals, which have seven per energy level.
-	- The third quantum number is the magnetic quantum number, **m<sub>l</sub>**. This can have a value anywhere from **-l** to **l** *(or from (1 - n) to (n - 1))*. 
+	- The third quantum number is the magnetic quantum number, **m<sub>l</sub>**. This can have a value anywhere from **-l** to **l**. 
 		- This quantum number *determines how many orbitals there are of a type, per energy level*. 
 		- Therefore, describes a specific orbital amongst a particular set, explaining why the orbitals have the frequency they do.
 	- The last quantum number is the *sping quantum number*, **m<sub>s</sub>**. This value ranges from 0.5 to -0.5.

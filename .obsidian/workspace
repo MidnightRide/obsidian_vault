@@ -4,46 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "5829497bd33a8a78",
+        "id": "3e1fd67818aff57f",
         "type": "leaf",
-        "dimension": 52.090909090909086,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/history/study/contribution_of_women_ww1.md",
+            "file": "schoolwork/science/study/electron_configuration.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "f7c381ffe1af1beb",
-        "type": "split",
-        "dimension": 47.90909090909091,
-        "children": [
-          {
-            "id": "0f2b1fa81adaf1cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "schoolwork/history/study/women_organisations_in_ww1.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "605a369eb0673d5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "schoolwork/history/study/contribution_of_women_ww1.md",
-                "mode": "preview"
-              }
-            }
+        "id": "4099ee2e6d04c6ac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "schoolwork/science/science_study.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -107,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schoolwork/history/study/contribution_of_women_ww1.md",
+                "file": "schoolwork/science/study/electron_configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,16 +105,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5829497bd33a8a78",
+  "active": "3e1fd67818aff57f",
   "lastOpenFiles": [
-    "schoolwork/history/study/contribution_of_women_ww1.md",
+    "schoolwork/science/study/electron_configuration.md",
+    "schoolwork/science/science_study.md",
+    "schoolwork/science/science_revision.md",
     "schoolwork/history/study/women_organisations_in_ww1.md",
+    "schoolwork/history/study/contribution_of_women_ww1.md",
     "schoolwork/history/history_study.md",
     "schoolwork/history/study/assesment_task_2_research_task.md",
     "schoolwork/history/study/Untitled.md",
-    "schoolwork/science/science_study.md",
-    "schoolwork/science/science_revision.md",
-    "schoolwork/science/study/electron_configuration.md",
     "schoolwork/science/study/biodiversity.md",
     "schoolwork/science/study/factors_for_survival.md"
   ]
