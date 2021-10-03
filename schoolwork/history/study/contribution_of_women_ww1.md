@@ -36,7 +36,7 @@
 - Women have played significant roles as *nurses in wartime*. In the South African War and World War I, the main service roles open to women were:
 	- *nurses*
 	- *medical support roles*, such as blood transfusionists and masseuses *(medical therapists)*.
-	- *voluntary aid detachments (VADs)* carrrying out menial but essential tasks, like scrubbing floors.
+	- *voluntary aid detachments (VADs)* carrying out menial but essential tasks, like scrubbing floors.
 - Civilian nurses and teachers often paid their own way to help overseas, during both the *South African War* and *World War I*.
 - Red Cross nurses, known as **Bluebirds** due to their uniforms, served in hospitals on the front line in France.
 - Canteens were set up for Australian troops in Egypt by Australian women. Among those who volunteered were:
