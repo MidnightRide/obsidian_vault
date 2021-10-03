@@ -2,8 +2,8 @@
 ## Yearly Examination `IMPORTANT`
 ### Completed Subjects
 - [x] Genetics
-- [ ] Evolution
-- [ ] Atoms and the Periodic Table
+- [x] Evolution
+- [x] Atoms and the Periodic Table
 - [ ] Chemical Reactions
 - [ ] Energy and Waves
 ### Task List
@@ -14,6 +14,8 @@
 - [ ] Do questions on genetic inheritance.
 - [ ] Do the evidence for evolution, does  not seem like a useful topic right now.
 - [ ] Do a final revision of evolution.
+- [ ] Revise acid - base reactions.
+- [ ] Memorise precipitation  table.
 ### Data Catchall
 | Topic                        | Data                                    | Status | Importance *(Estimations)* |
 | ---------------------------- | --------------------------------------- | ------ | -------------------------- |

@@ -80,3 +80,25 @@
 - **Acid - base** reactions involve:
 	-  *acid + reactive metal -> salt + hydrogen* dilute acids are added to *main-group metals* and some transition metals. Bubbles of hydrogen gas are released and salt is formed.
 	- *acid + metal hydroxide -> salt + water* soluble metal hydroxides dissociate in water to form metal cations and hydroxide ions.
+	- *acid + metal hydroxide -> ionic compound*
+	- *acid + metal carbonate -> salt + water + CO<sub>2</sub>* 	
+
+> **Naming salts** involves *positive ion (cation from base) + negative ion (anion from acid)*.
+
+- **Neutralistion reactions**: *neutralised acid + base -> all hydroxide ions have reached with all hydrogen ions to form water + salt.*
+
+> **NOTE** A neutralization reaction is **when an acid and a base react to form water and a salt** and involves the combination of H<sup>+</sup> ions and OH<sup>-</sup> ions to generate water. 
+
+- **Precipitation reactions** occur when cations and anions in aqueous solutoin combine to form an insoluble solid called a preciptate.
+	- An insoluble compound is formed when two clear solutions are mixed together.
+
+>**NOTE** *To predict when a reaction will form a precipitate*, a solubility table can be used to determine whether common ionic compounds are soluble / insoluble in water:
+>
+>![[Pasted image 20211003211323.png]]
+>
+> _To remember the soluble salts, use **SNAAP**_:
+> - sodium
+> - nitrate
+> - ammonium
+> - acetate 
+> - potassium
