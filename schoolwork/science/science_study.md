@@ -32,4 +32,4 @@
 |                              | [[periodic_table]]                      | ✅     | *Urgent*                   |
 |                              | [[periodic_table_trends]]               | ✅     | *Urgent*                   |
 |                              | [[electron_configuration]]              | ❎     | *Urgent*                   |
-|                              | [[chemical_changes]]                                        | ✅       | *Urgent*                           |
+|                              | [[chemical_changes]]                    | ✅     | *Urgent*                   |

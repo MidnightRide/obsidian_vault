@@ -102,3 +102,6 @@
 > - ammonium
 > - acetate 
 > - potassium
+
+## Moles
+- A **mole** is the base unit of amount of substance in the *International System of Units*. It is defined as exactly *6.022 x 10<sup>32<sup>* particles, which may be atoms, molecules, ions or electrons.
