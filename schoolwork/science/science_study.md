@@ -16,6 +16,9 @@
 - [ ] Do a final revision of evolution.
 - [ ] Revise acid - base reactions.
 - [ ] Memorise precipitation  table.
+- [ ] Do questions on waves and refractive indexes etc.
+- [ ] Memorise these formulas for **everything**!!!!
+
 ### Data Catchall
 | Topic                        | Data                                    | Status | Importance *(Estimations)* |
 | ---------------------------- | --------------------------------------- | ------ | -------------------------- |
@@ -33,3 +36,5 @@
 |                              | [[periodic_table_trends]]               | ✅     | *Urgent*                   |
 |                              | [[electron_configuration]]              | ❎     | *Urgent*                   |
 |                              | [[chemical_changes]]                    | ✅     | *Urgent*                   |
+| Energy and Waves             | [[total_internal_reflection]]           | ✅     | *Urgnet*                   |
+|                              | [[electromagnetic_ic_waves]]            | ✅     | *Average*                  |

@@ -15,4 +15,6 @@
 	- *The waves are produced by oscillating, perpendicular electric and magnetic fields*.
 	- *The waves are considered to be __self propogating__, meaning the electric field produces a perpendicular magnetic field which in-turn induces an electric field, etc.*
 	- *This property enables EM waves to travel distances of the universe, billions of light years away from the source of radiation*.
-- In free space, **electromagnetic waves** travel 
+- In free space, **electromagnetic waves** travel with the same speed: 3.00 x 10<sup>8</sup> m s<sup>-1</sup>.
+- They slow down when travelling in any physical medium apart from a vacuum.
+
