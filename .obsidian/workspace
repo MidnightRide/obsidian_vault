@@ -9,11 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/science/study/periodic_table.md",
-            "mode": "preview"
+            "file": "schoolwork/science/study/electromagnetic_ic_waves.md",
+            "mode": "source"
           }
         },
-        "group": "512b3e1babc5c234"
+        "group": "bbce9a5b71c787ac"
       },
       {
         "id": "6cf8831f59c7c640",
@@ -21,11 +21,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/science/study/periodic_table.md",
+            "file": "schoolwork/science/study/electromagnetic_ic_waves.md",
             "mode": "preview"
           }
         },
-        "group": "512b3e1babc5c234"
+        "group": "bbce9a5b71c787ac"
       }
     ],
     "direction": "vertical"
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schoolwork/science/study/periodic_table.md",
+                "file": "schoolwork/science/study/electromagnetic_ic_waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "77c64e6cde8c067c",
   "lastOpenFiles": [
-    "schoolwork/science/study/periodic_table.md",
-    "schoolwork/science/study/periodic_table_trends.md",
-    "schoolwork/science/study/chemical_changes.md",
-    "schoolwork/science/study/biodiversity.md",
-    "schoolwork/science/science_study.md",
-    "schoolwork/science/science_revision.md",
+    "schoolwork/science/study/electromagnetic_ic_waves.md",
     "schoolwork/science/study/selection_pressures.md",
-    "schoolwork/science/study/moles.md",
+    "schoolwork/science/science_revision.md",
+    "Pasted image 20211004161117.png",
+    "periodic_table_of_ions.png",
+    "Pasted image 20211003211323.png",
+    "Pasted image 20211003183402.png",
     "schoolwork/science/study/Untitled.md",
-    "schoolwork/science/study/mutations.md"
+    "schoolwork/science/science_study.md",
+    "schoolwork/science/study/periodic_table.md"
   ]
 }

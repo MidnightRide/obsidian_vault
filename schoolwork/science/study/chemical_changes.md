@@ -94,7 +94,7 @@
 
 >**NOTE** *To predict when a reaction will form a precipitate*, a solubility table can be used to determine whether common ionic compounds are soluble / insoluble in water:
 >
->![[Pasted image 20211003211323.png]]
+>![[precipitate_table.png]]
 >
 > _To remember the soluble salts, use **SNAAP**_:
 > - sodium

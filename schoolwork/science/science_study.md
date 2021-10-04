@@ -4,7 +4,7 @@
 - [x] Genetics
 - [x] Evolution
 - [x] Atoms and the Periodic Table
-- [ ] Chemical Reactions
+- [x] Chemical Reactions
 - [ ] Energy and Waves
 ### Task List
 - [x] Revise mutations.
