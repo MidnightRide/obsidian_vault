@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/science/study/chemical_changes.md",
-            "mode": "source"
+            "file": "schoolwork/science/study/periodic_table.md",
+            "mode": "preview"
           }
         },
         "group": "512b3e1babc5c234"
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/science/study/chemical_changes.md",
+            "file": "schoolwork/science/study/periodic_table.md",
             "mode": "preview"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schoolwork/science/study/chemical_changes.md",
+                "file": "schoolwork/science/study/periodic_table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,8 @@
   },
   "active": "77c64e6cde8c067c",
   "lastOpenFiles": [
+    "schoolwork/science/study/periodic_table.md",
+    "schoolwork/science/study/periodic_table_trends.md",
     "schoolwork/science/study/chemical_changes.md",
     "schoolwork/science/study/biodiversity.md",
     "schoolwork/science/science_study.md",
@@ -116,8 +118,6 @@
     "schoolwork/science/study/selection_pressures.md",
     "schoolwork/science/study/moles.md",
     "schoolwork/science/study/Untitled.md",
-    "schoolwork/science/study/mutations.md",
-    "schoolwork/science/study/human_evolution.md",
-    "schoolwork/science/study/genetic_inheritance.md"
+    "schoolwork/science/study/mutations.md"
   ]
 }
