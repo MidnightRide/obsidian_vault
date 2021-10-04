@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/science/study/total_internal_reflection.md",
+            "file": "schoolwork/english/revision/analysing_romantic_and_gothic_paintings.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/science/study/total_internal_reflection.md",
+            "file": "schoolwork/english/revision/analysing_romantic_and_gothic_paintings.md",
             "mode": "source"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schoolwork/science/study/total_internal_reflection.md",
+                "file": "schoolwork/english/revision/analysing_romantic_and_gothic_paintings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,7 @@
   },
   "active": "77c64e6cde8c067c",
   "lastOpenFiles": [
+    "schoolwork/english/revision/analysing_romantic_and_gothic_paintings.md",
     "schoolwork/science/study/total_internal_reflection.md",
     "schoolwork/science/study/Untitled.md",
     "Pasted image 20211004164659.png",
@@ -117,7 +118,6 @@
     "schoolwork/science/science_revision.md",
     "Pasted image 20211004163621.png",
     "schoolwork/science/study/electromagnetic_ic_waves.md",
-    "schoolwork/science/study/biodiversity.md",
-    "schoolwork/science/study/chemical_changes.md"
+    "schoolwork/science/study/biodiversity.md"
   ]
 }
