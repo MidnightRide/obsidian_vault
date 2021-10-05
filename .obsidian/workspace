@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/english/revision/analysing_romantic_and_gothic_paintings.md",
+            "file": "schoolwork/science/study/electron_configuration.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/english/revision/analysing_romantic_and_gothic_paintings.md",
-            "mode": "source"
+            "file": "schoolwork/science/study/electron_configuration.md",
+            "mode": "preview"
           }
         },
         "group": "bbce9a5b71c787ac"
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schoolwork/english/revision/analysing_romantic_and_gothic_paintings.md",
+                "file": "schoolwork/science/study/electron_configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "77c64e6cde8c067c",
   "lastOpenFiles": [
-    "schoolwork/english/revision/analysing_romantic_and_gothic_paintings.md",
-    "schoolwork/science/study/total_internal_reflection.md",
-    "schoolwork/science/study/Untitled.md",
-    "Pasted image 20211004164659.png",
-    "periodic_table_of_ions.png",
-    "schoolwork/science/science_study.md",
-    "schoolwork/science/science_revision.md",
-    "Pasted image 20211004163621.png",
+    "schoolwork/science/study/electron_configuration.md",
+    "schoolwork/science/study/natural_selection.md",
+    "schoolwork/science/study/human_evolution.md",
+    "schoolwork/science/study/factors_for_survival.md",
+    "schoolwork/science/study/dispersion.md",
+    "schoolwork/science/study/biodiversity.md",
+    "schoolwork/science/study/chemical_changes.md",
     "schoolwork/science/study/electromagnetic_ic_waves.md",
-    "schoolwork/science/study/biodiversity.md"
+    "schoolwork/english/revision/analysing_romantic_and_gothic_paintings.md",
+    "schoolwork/science/study/total_internal_reflection.md"
   ]
 }
