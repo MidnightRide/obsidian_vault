@@ -2,7 +2,6 @@
 ## Task List
 - [x] Create the platform layer.
 - [ ] Plan out the bosses
-- [x] Figure out this WASAPI shit.
 - [x] Figure out what you want to do with the structure of the input.
 - [x] Understand the way input is handled a bit better
 - [x] Convert World Position to a vector.

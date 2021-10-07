@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/science/study/waves.md",
+            "file": "game_development/deaths_despair.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/science/study/waves.md",
+            "file": "game_development/deaths_despair.md",
             "mode": "preview"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schoolwork/science/study/waves.md",
+                "file": "game_development/deaths_despair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "77c64e6cde8c067c",
   "lastOpenFiles": [
+    "game_development/deaths_despair.md",
+    "game_development/reference_art.md",
+    "game_development/handmade_hero.md",
     "schoolwork/science/study/waves.md",
     "schoolwork/science/science_study.md",
     "schoolwork/science/study/Untitled.md",
     "schoolwork/science/science_revision.md",
     "schoolwork/science/study/sound_waves.md",
     "waves.md",
-    "schoolwork/science/study/electromagnetic_ic_waves.md",
-    "schoolwork/science/study/selection_pressures.md",
-    "schoolwork/science/study/total_internal_reflection.md",
-    "schoolwork/science/study/protein_synthesis.md"
+    "schoolwork/science/study/electromagnetic_ic_waves.md"
   ]
 }
