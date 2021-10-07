@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/math/math_study.md",
+            "file": "schoolwork/science/study/waves.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/math/math_study.md",
+            "file": "schoolwork/science/study/waves.md",
             "mode": "preview"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schoolwork/math/math_study.md",
+                "file": "schoolwork/science/study/waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "77c64e6cde8c067c",
   "lastOpenFiles": [
-    "schoolwork/science/science_study 1.md",
+    "schoolwork/science/study/waves.md",
     "schoolwork/science/science_study.md",
-    "schoolwork/science/study/electron_configuration.md",
-    "schoolwork/science/study/natural_selection.md",
-    "schoolwork/science/study/human_evolution.md",
-    "schoolwork/science/study/factors_for_survival.md",
-    "schoolwork/science/study/dispersion.md",
-    "schoolwork/science/study/biodiversity.md",
-    "schoolwork/science/study/chemical_changes.md",
-    "schoolwork/science/study/electromagnetic_ic_waves.md"
+    "schoolwork/science/study/Untitled.md",
+    "schoolwork/science/science_revision.md",
+    "schoolwork/science/study/sound_waves.md",
+    "waves.md",
+    "schoolwork/science/study/electromagnetic_ic_waves.md",
+    "schoolwork/science/study/selection_pressures.md",
+    "schoolwork/science/study/total_internal_reflection.md",
+    "schoolwork/science/study/protein_synthesis.md"
   ]
 }

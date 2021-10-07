@@ -18,6 +18,7 @@
 - [ ] Memorise precipitation  table.
 - [ ] Do questions on waves and refractive indexes etc.
 - [ ] Memorise these formulas for **everything**!!!!
+- [ ] Do questions on frequency.
 
 ### Data Catchall
 | Topic                        | Data                                    | Status | Importance *(Estimations)* |
@@ -38,3 +39,5 @@
 |                              | [[chemical_changes]]                    | ✅     | *Urgent*                   |
 | Energy and Waves             | [[total_internal_reflection]]           | ✅     | *Urgnet*                   |
 |                              | [[electromagnetic_ic_waves]]            | ✅     | *Average*                  |
+|                              | [[sound_waves]]                         | ✅     | *Average*                  |
+|                              | [[waves]]                                        |❎       |              *Average*              |
