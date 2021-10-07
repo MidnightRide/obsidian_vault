@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "game_development/deaths_despair.md",
+            "file": "schoolwork/commerce/study/consumer_and_financial_decisions.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "game_development/deaths_despair.md",
+            "file": "schoolwork/commerce/study/consumer_and_financial_decisions.md",
             "mode": "preview"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game_development/deaths_despair.md",
+                "file": "schoolwork/commerce/study/consumer_and_financial_decisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "77c64e6cde8c067c",
   "lastOpenFiles": [
-    "game_development/deaths_despair.md",
-    "game_development/reference_art.md",
-    "game_development/handmade_hero.md",
-    "schoolwork/science/study/waves.md",
+    "schoolwork/commerce/study/Untitled.md",
+    "schoolwork/history/history_study 1.md",
+    "schoolwork/history/history_study.md",
+    "schoolwork/catchall_commerce.md",
+    "schoolwork/catchall_history.md",
+    "schoolwork/catchall_science.md",
+    "schoolwork/catchall_history 1.md",
+    "schoolwork/catchall_english.md",
     "schoolwork/science/science_study.md",
-    "schoolwork/science/study/Untitled.md",
-    "schoolwork/science/science_revision.md",
-    "schoolwork/science/study/sound_waves.md",
-    "waves.md",
-    "schoolwork/science/study/electromagnetic_ic_waves.md"
+    "schoolwork/science/science_revision.md"
   ]
 }
