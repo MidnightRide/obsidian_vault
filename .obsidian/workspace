@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/commerce/study/consumer_and_financial_decisions.md",
+            "file": "schoolwork/english/study/poetry_and_romanticism.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/commerce/study/consumer_and_financial_decisions.md",
+            "file": "schoolwork/english/study/poetry_and_romanticism.md",
             "mode": "preview"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schoolwork/commerce/study/consumer_and_financial_decisions.md",
+                "file": "schoolwork/english/study/poetry_and_romanticism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,7 @@
   },
   "active": "77c64e6cde8c067c",
   "lastOpenFiles": [
+    "schoolwork/english/study/Untitled.md",
     "schoolwork/commerce/study/Untitled.md",
     "schoolwork/history/history_study 1.md",
     "schoolwork/history/history_study.md",
@@ -117,7 +118,6 @@
     "schoolwork/catchall_science.md",
     "schoolwork/catchall_history 1.md",
     "schoolwork/catchall_english.md",
-    "schoolwork/science/science_study.md",
-    "schoolwork/science/science_revision.md"
+    "schoolwork/science/science_study.md"
   ]
 }
