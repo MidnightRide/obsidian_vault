@@ -5,7 +5,9 @@
 
 ## Data Catchall
 ---
-|Subject|
-| --- |
-| [[catchall_science]] |
-| [[catchall_english]] |
+| Subject               |
+| --------------------- |
+| [[catchall_science]]  |
+| [[catchall_english]]  |
+| [[catchall_commerce]] |
+| [[catchall_history]]                      |

@@ -110,3 +110,52 @@
 	- *__interstate or globally__*
 
 ## Different Payment Options
+- There are several different types of payment options:
+	- **cash** is the notes and coins issued by the federal government. Consumers usually use cash to pay for relatively inexpensive items, but rarely use it for expensive things like a car or a house.
+		- *__advantages of cash include__*:
+			- *it is accepted almost anywhere*
+			- *some stores offer a discount for cash*
+			- *there are no hidden costs*
+			- *there is a reduced risk of getting into debt*
+		
+		- *__disadvantages of cash include__*:
+			- *it can be easily lost or stolen*
+			- *it may not be safe to carry around*
+			- *if no ATM is available, a consumer may not be able to make a desired purchase if they don't have enough cash on them.*
+	- **credit** is the supply of money now in return for the promise of paying it back later. Credit allows you to buy what you want immediately and pay for it later, either in full or monthly payments. Because you are using money you do not have, you willb e charged *interest* for its use unless you pay the total balance back to the credit card company before the interest free period.
+
+		- **_advantages of credit include_**:
+			- *avoid the neccessity of carrying around large amounts of cash*.
+			- *are a convenient payment method for online and telephone purchases*.
+			- *help you establish good credit history*
+			- *offer cheap use of funds, provided you always pay your balance in full*.
+		
+		- **_disadvantages of credit include_**:
+			- *make it easy to overspend and consequently build up your debt.*
+			- *be more expensive than other forms of credit such as personal loan.*
+			- *damage your credit rating if you continually make late payments.*
+	-	**store credit** are when large stores or retail groups issue their own cards that operate like regular credit cards. These cards are usually associated with special deals, but have higher interest rates and less interest-free days.
+
+	- **paypal** is an intermediary service where you end up paying for the good using your credit card, bank account or money stored in your *Paypal* account.
+	- **debit** is when you use your own money instead of using moeny you do not have. You pay no interest, only an account operating fee, and can spend up to your account balance. The most common way of using your debit card for purchases is by **EFTPOS**.
+	- **EFTPOS** is a computerised system in which money is transferred from a consumer's account to the business's account. It is important to keep EFTPOS receipts are kept to check against account statements.
+	- **BPAY** is another type of electronic payment where the system uses a telephone or internet connection to transfer funds from your cheque, savings or credit card account to the account of the business you wish to pay for. First a consumer keys in a login and password to access their internet or phone banking account. Then they enter transaction details, including a special customer reference number written on the bill, so money is transferred from their bank account directly to the business's account.
+	- **direct debit** can be used to schedule bill payments from your nominated bank account. The bank automatically withdraws the funds from your account and electronically transfers the funds to the businesss requiring payment. It can help alleviate problems which come from forgetting to pay.
+		- **_disadvantages of direct debit include_**:
+			- *you must make sure you have enough money in your account to pay the payment or else the transaction will be refused*.
+			
+			- *you may be charged by your bank if you don't have enough funds in your account to pay.*
+	- **cheques** are a written communication ordering your financial institution, the **drawee** to pay a specific person, the **payee**, a specific amount of money. The person authorizing the transaction is called the **drawer**. Cheques are issued in a numbered order, called a chequebook.
+		- **_advantages of cheques include_**:
+			- *they are safer than carrying cash*
+			- *they can be posted safely*
+			- *only the named recipient is able to cash the cheque*
+
+		- **_disadvantages of cheques include_**:
+			- *they are not accepted everywhere*
+			- *cheques take time to process / clear*
+			- *bank charges	are involved with having a cheque book.*
+
+	- **layby** is when you first pay a deposit and then the store puts aside the good for you. You then make regular payments over a fixed period of time. You do not take possession of the good until you pay off the last instalment owning.
+	- **bookup** is credit provided by a retailer so that you can purchase goods from the retailer's store and pay the account at a later date. You must pay this back within a set period of time.
+	- **afterpay** is a digital service linked to a customer's credit or debit card and enables consumers to 'buy now, pay later'. It allows consumers to purchase something at the current price and pay this amount off in four equal instalments every two weeks.

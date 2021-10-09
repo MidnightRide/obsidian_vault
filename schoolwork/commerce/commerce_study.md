@@ -7,4 +7,4 @@
 ### Data Catchall
 | Topic | Data | Status | Importance *(Estimations)* |
 | --- | --- | --- | --- |
-|Consumer and Financial Decisions| [[contribution_of_women_ww1]] | ✅ | *Urgent* | 
+|Consumer and Financial Decisions| [[consumer_and_financial_decisions]] | ✅ | *Urgent* | 
