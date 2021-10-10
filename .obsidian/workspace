@@ -99,8 +99,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "e209d0b534b46da3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",

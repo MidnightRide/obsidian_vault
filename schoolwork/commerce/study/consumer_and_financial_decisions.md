@@ -169,7 +169,7 @@
 ## Features of a simple contract
 - Three essential elements make a contract legally binding
 	- The **offer** is a proposal. It involves one of the parties offering something of value. The *offeror* must clearly communicate their intention to the *offeree*.
-	
+
 	- An **acceptance** occurs when the *offeree* agrees to the proposal. This involves either a written or oral statement or an act that clearly communicates acceptance of the offer.
 
 	- The **consideration** requires each party of the agreement to give up something of value. Consideration can take the form of a sum of money paid, or the promise to do something.
@@ -186,5 +186,30 @@
 ### State government
 -  *New South Wales Fair Trading* is the state consumer protection agency. It provides information and assistance to all consumers on areas such as consumer issues, shopping on the internet, home building anad motor vehicle sales.
 
-## Ombudsman
-- Industry *ombudsman* have been established in the past years to deal with  disputes between 
+### Ombudsman
+- Industry *ombudsman* have been established in the past years to deal with  disputes between consumers and specific businesses including finance, telecommunications and insurance.
+
+### Federal government
+- The two federal government commissions largely responsible for assisting consumers are:
+	- *Australian Securities and Investments Commission (ASIC)*, which protects consumers in the areas of consumer credit, investment, life and general insurance, superannuation and banking. The aim of ASIC  is to assist in reduicing fraud in financial markets and financial products.
+	- *The Australian Competition and Consumer Commission (ACCC)*. This commission  operates natoinally for the enforcement and administration of the Competition and Consumer Act, and acts as a watchdog on the pricing of goods and services.
+
+## Processes of consumer redress
+- Consumers can **redress** the things that are wrong if goods are different from how they were labelled, if they were faulty when manafactured or do not do what you were told they would do. The steps follow:
+	- *Contact the trader by either phone or in person*. If you are using the phone, always get the name of the person you are talking to. Keep a written record of all conversations and copies of letters and emails. File any receipts, and return the faulty good immediately. If you leave the good with a trader,  request a receipt. Check your guarantee to determine whether it covers the problem being experiened.
+	- *Contact your local NSW Fair Trading office and seek advice* if you have tried to redress the problem and still not satisfied. This will be an informal conversation where you explain the circumstances of your problem. The officer will ask you to provide certain information and copies  of any relevant documents.
+	- *Lodge a claim with the NSW Civil and Adminstrative Tribunal (NCAT)* if you are still not satisified the problem has been redressed. It hears claims of value up to $40 000.
+
+## Importance of long term financial strategies
+- The most common strategy is to fund a comfortable retirement.
+- While people can adopt many investment strategies to achieve this goal, such as investing in real estate, shares and managed funds, the most common is **superannuation**.
+
+> **Superannuation**, or commonly called just *super*, is money that's put aside and saved while you're working.
+
+- A superannuation fund is a compulsory savings account where each time you are paid, your employer will allocate a percentage of your income to the account.
+- You should choose your own superannuation fund and not just accept the one the employer uses. Your decision should be based on the fund's fees and history of returns.
+
+## Tools and strategies for effective financial management
+> **Fixed expenses** are expenses that are the same amount every time.
+
+- Other expenses are **variable** and change over time. 
