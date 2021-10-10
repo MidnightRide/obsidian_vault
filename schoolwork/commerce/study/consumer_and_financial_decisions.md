@@ -159,3 +159,32 @@
 	- **layby** is when you first pay a deposit and then the store puts aside the good for you. You then make regular payments over a fixed period of time. You do not take possession of the good until you pay off the last instalment owning.
 	- **bookup** is credit provided by a retailer so that you can purchase goods from the retailer's store and pay the account at a later date. You must pay this back within a set period of time.
 	- **afterpay** is a digital service linked to a customer's credit or debit card and enables consumers to 'buy now, pay later'. It allows consumers to purchase something at the current price and pay this amount off in four equal instalments every two weeks.
+
+## Reasons for and features of a simple contract
+> A **contract** is a legally enforcable agreement between two or more persons or parties.
+
+- The contract outlines the details of the agreement and the *rights* and *responsibilities (obligations)* of each of the parties.
+- A contract is most often an oral agreement. Agreements that invovle large sums of money, such as when buying a house, are usually put in writing.
+
+## Features of a simple contract
+- Three essential elements make a contract legally binding
+	- The **offer** is a proposal. It involves one of the parties offering something of value. The *offeror* must clearly communicate their intention to the *offeree*.
+	
+	- An **acceptance** occurs when the *offeree* agrees to the proposal. This involves either a written or oral statement or an act that clearly communicates acceptance of the offer.
+
+	- The **consideration** requires each party of the agreement to give up something of value. Consideration can take the form of a sum of money paid, or the promise to do something.
+
+## Legal rights of customers
+- Consumers have four basic rights, these are:
+	- *Safe products*. Directions for proper use are provided and products are tested by the manafacturer to ensure product quality.
+	
+	- *Accurate product information and descriptions*. For example, ingredients are clearly labelled on food containers.
+	- *Full disclosure of terms of sale*. The full price is always displayed, especially on any credit contracts.
+	- *Consumer guarantees and warranties are honoured*. Customers can expect a refund or exchange if the product is faulty.
+
+## Organisations that provide assistance for consumers
+### State government
+-  *New South Wales Fair Trading* is the state consumer protection agency. It provides information and assistance to all consumers on areas such as consumer issues, shopping on the internet, home building anad motor vehicle sales.
+
+## Ombudsman
+- Industry *ombudsman* have been established in the past years to deal with  disputes between 
