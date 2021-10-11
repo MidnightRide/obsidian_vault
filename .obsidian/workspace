@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/english/study/romanticism_assesment_task_revision.md",
+            "file": "schoolwork/science/study/chemical_changes.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/english/study/romanticism_assesment_task_revision.md",
+            "file": "schoolwork/science/study/chemical_changes.md",
             "mode": "preview"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schoolwork/english/study/romanticism_assesment_task_revision.md",
+                "file": "schoolwork/science/study/chemical_changes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +118,15 @@
   },
   "active": "77c64e6cde8c067c",
   "lastOpenFiles": [
-    "schoolwork/english/study/Untitled.md",
-    "schoolwork/commerce/study/running_a_business.md",
-    "schoolwork/commerce/commerce_study.md",
-    "schoolwork/commerce/study/Untitled.md",
-    "schoolwork/commerce/study/consumer_and_financial_decisions.md",
-    "schoolwork/science/study/electromagnetic_ic_waves.md",
-    "schoolwork/science/study/dispersion.md",
-    "schoolwork/science/study/moles.md",
-    "game_development/reference_art.md",
-    "game_development/handmade_hero.md"
+    "schoolwork/science/study/chemical_changes.md",
+    "schoolwork/science/revision/the_big_bang.md",
+    "schoolwork/math/math_study.md",
+    "schoolwork/history/study/women_organisations_in_ww1.md",
+    "schoolwork/history/study/contribution_of_women_ww1.md",
+    "schoolwork/history/study/assesment_task_2_research_task.md",
+    "schoolwork/english/study/poetry_and_romanticism.md",
+    "schoolwork/english/study/romanticism_assesment_task_revision.md",
+    "schoolwork/english/revision/analysing_romantic_and_gothic_paintings.md",
+    "schoolwork/commerce/study/running_a_business.md"
   ]
 }
