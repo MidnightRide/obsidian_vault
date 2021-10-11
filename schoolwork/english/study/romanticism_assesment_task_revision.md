@@ -1,0 +1,32 @@
+# Romanticism Assesment Task Revision
+## Glossary of Poetic Techniques
+- *alliteration* is a literary device that repeats the same letter or sound at the beginning of words. Used to create *rhythm and mood*.
+- *allusion* is an expression designed to call something to mind without mentioning it explicity; an indirect or passing reference.
+- *assonance* is the repitition of vowel sounds in a phrase or sentence.
+- *conceit* refers to an extended metaphor, which builds on metaphorical comparison between two things and explores its different facets throughout the poem or a section of the poem.
+- *confessional poetry* is the poetry of the "I".
+- *connotation* is when a word prompts associations beyond its simple dictionary definition.
+- *couplet* a succesive pair of lines in a poem.
+- *double couplet* the repitition of sounds to create a rhyming pattern - *AABB*.
+- *dramatic monologue* is a poem spoken by one person to another person; the listener is implied.
+- *emotive language* is a way of writing where the author deliberately chooses his/her words carefully to create and invoke emotions within the reader.
+- *enjambment* is the continuation of a sentence without pause beyond the end of a line. Used to quicken the pace for the reader / listening to create a sense of urgency.
+- *epigraph* a short quotation or saying at the beginnning of a text, intended to suggest it's theme.
+- *free verse* is a style of poetry that does not have a regular rhyme scheme or rhythm.
+- *hyperbole* refers to exaggerated claims or statements not meant to be taken literally, often utilised for dramatic or poetic effect.
+- *imagery* is the use of words to create images in the reader's mind based on the five senses of sight, smell, touch, hearing and taste. It can also relate to emotion.
+- *imagism* is a style of poetry which uses precise language and painting clear pictures with words.
+- *intertextuality* is an interpretation of the way in which one text influences another text.
+- *metaphor*
+- *meter* is a stressed and unstressed syllabic pattern in a verse, or within the lines of a poem.
+- *mood* refers to inducing of or suggesting of a particular feeling or state of mind.
+- *onomatopeia*  is where the formation of a word from a sound associated with what is named.
+- *pantoum* refers to a poem which features repeating, interwoven lines with a specific line structure.
+- *personfication*
+- *quatrain* a literary device that contributes to the structure of a poem. It is a four-line stanza employing a very tight rhyme scheme.
+- *refrain* a repeated line or lines used as a cohesive device in music and poetry. 
+- *repitition*
+- *rhyme*
+- *simile*
+- *symbolism*
+- *tone* 
