@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/commerce/study/consumer_and_financial_decisions.md",
+            "file": "schoolwork/commerce/study/running_a_business.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/commerce/study/consumer_and_financial_decisions.md",
+            "file": "schoolwork/commerce/study/running_a_business.md",
             "mode": "preview"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schoolwork/commerce/study/consumer_and_financial_decisions.md",
+                "file": "schoolwork/commerce/study/running_a_business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +118,15 @@
   },
   "active": "77c64e6cde8c067c",
   "lastOpenFiles": [
-    "schoolwork/commerce/study/consumer_and_financial_decisions.md",
+    "schoolwork/commerce/study/running_a_business.md",
     "schoolwork/commerce/commerce_study.md",
-    "schoolwork/catchall_commerce.md",
-    "schoolwork/science/study/chemical_changes.md",
-    "schoolwork/science/study/biodiversity.md",
-    "schoolwork/science/study/selection_pressures.md",
-    "schoolwork/science/study/protein_synthesis.md",
-    "schoolwork/science/study/periodic_table_trends.md",
-    "schoolwork/science/study/periodic_table.md",
-    "schoolwork/science/study/nuclear_structure_and_radioactivity.md"
+    "schoolwork/commerce/study/Untitled.md",
+    "schoolwork/commerce/study/consumer_and_financial_decisions.md",
+    "schoolwork/science/study/electromagnetic_ic_waves.md",
+    "schoolwork/science/study/dispersion.md",
+    "schoolwork/science/study/moles.md",
+    "game_development/reference_art.md",
+    "game_development/handmade_hero.md",
+    "schoolwork/catchall_commerce.md"
   ]
 }

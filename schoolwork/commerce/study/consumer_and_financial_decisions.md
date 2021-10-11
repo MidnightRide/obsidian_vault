@@ -195,6 +195,7 @@
 	- *The Australian Competition and Consumer Commission (ACCC)*. This commission  operates natoinally for the enforcement and administration of the Competition and Consumer Act, and acts as a watchdog on the pricing of goods and services.
 
 ## Processes of consumer redress
+> 
 - Consumers can **redress** the things that are wrong if goods are different from how they were labelled, if they were faulty when manafactured or do not do what you were told they would do. The steps follow:
 	- *Contact the trader by either phone or in person*. If you are using the phone, always get the name of the person you are talking to. Keep a written record of all conversations and copies of letters and emails. File any receipts, and return the faulty good immediately. If you leave the good with a trader,  request a receipt. Check your guarantee to determine whether it covers the problem being experiened.
 	- *Contact your local NSW Fair Trading office and seek advice* if you have tried to redress the problem and still not satisfied. This will be an informal conversation where you explain the circumstances of your problem. The officer will ask you to provide certain information and copies  of any relevant documents.
@@ -213,3 +214,45 @@
 > **Fixed expenses** are expenses that are the same amount every time.
 
 - Other expenses are **variable** and change over time. 
+- Normally it is easier to cut down non-essential, *variable* expenses.
+- A budget should follow the following steps:
+	- *calculate your total income*
+	- *record your expenses*
+	- *total your expenses*
+	- *compare your total income with your total expenditure*
+	- *assess your financial position* if neccessary, modify your budget. This may mean taking steps to reduce your expenses or to increase your income.
+
+## Superannuation
+- In Australia, *superannuation* is a compulsory  savings scheme for retirement. Over your working life, you pay into a fund and then when you retire, you receive either a large lump sum or a pension.
+- You can choose between two  types of superannuation funds: a *retail fund* or an *industry fund*:
+	- *Retail funds* are usually run by banks or investment companies. They will offer many investment choices but the company that owns them will also keeep some of the returns as profit.
+	- *Inudstry funds* usually offer less choice, but any profits are returned to the members.
+
+## Options for addressing financial difficulty
+- In Australia, customers can access *personal loans* from:
+	- *banks*
+	- *credit unions*
+	- *building societies*
+	- *other financial institutions (for example, finance companies)*
+- While none of these lending authorities are government owned, all are supervised by the *Australian Prudential Regulatory Authority <u>(APRA)</u>*. Regulation requires these lending organisations to offer services to assist customers to get the best possible outcome from their choice of loan product and thereby reduce financial stress.
+- Once you have a personal loan, you begin making regular payments to your credit provider. The amount of each repayment is based on the sum borrowed, the term *(length)* of the loan and whether the interest rate is fixed or variable. *Fixed interest rates* stay the same throughout the term of the loan. *Variable interest rates* will change over the period of th eloan.
+
+## Negotiating alternative payment  plans
+- Should someone experience difficulty with their repayments due to unforseen circumstances *(such as illness or unemployment)*, they have the right to apply to their credit provider for a *hardship variation*. This requires them to:
+	- *contact the provider of the loan*.
+	- *tell them the need to vary the loan contract because of hardship*.
+	- *explain why they are having difficulties, how long they think their finanical problems will continue for, and how much they can afford to pay*.
+- A number of choices are available if you have to vary your loan due to hardship. These include:
+	- *extending the loan period*
+	- *making smaller repayments over a longer period*
+	- *postponing repayments for an agreed period*
+- Other options include selling assets, and only paying the interest on the loan.
+
+##  Impact of technology on consumer decisions
+- Before coins existed, a system of *barter* existed. Barter was swapping or exchanging one good for another. Barter still exists in some parts of the world.
+- *Money* gave consumers greater freedom in satisfying their needs and their wants. Earlier societies used items they valued, such as gold, shells, rum, salt, cattle or even coloured stones as money.	
+- Developments in technology have virtually turned Australia into a cashless society.
+- The modern consumer typically prefers  to use **electronic transfer** both to receive money and pay for purchases.
+- Some of the current technological methods that can be used to make cashless payments include:
+	- *Visa payWave* and *MasterCard PayPass*. This 'tap and go' technology allows for payments under $100 simply by tapping your debit or credit card, keyring or mobile phone against a specific contactless  terminal.
+	- *Smartphone apps*.
