@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "schoolwork/english/study/poetry_and_romanticism.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "schoolwork/english/study/poetry_and_romanticism.md",
             "mode": "preview"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "schoolwork/english/study/poetry_and_romanticism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
   },
   "active": "77c64e6cde8c067c",
   "lastOpenFiles": [
+    "schoolwork/english/study/poetry_and_romanticism.md",
     "README.md",
     "Pasted image 20211012190906.png",
     "periodic_table_of_ions.png",
@@ -126,7 +127,6 @@
     "Pasted image 20211007192338.png",
     "Pasted image 20211007191153.png",
     "Pasted image 20211007190448.png",
-    "Pasted image 20211007185913.png",
-    "particle_theory_solid.png"
+    "Pasted image 20211007185913.png"
   ]
 }

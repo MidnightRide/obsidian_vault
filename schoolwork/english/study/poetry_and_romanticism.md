@@ -39,4 +39,4 @@
 
 5 marks - 2 quotes
 
-10 marks - 4 quotes total
+10 marks - 6 quotes total
