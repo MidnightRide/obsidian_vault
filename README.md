@@ -9,7 +9,7 @@ Satvik Prasad's **Obsidian Vault**. Contains schoolwork, game development, and g
 
 - Then, open the folder as an existing obsidian vault:
 
-![[Pasted image 20211012190906.png]]
+![](./obsidian_vault.png)
 
 ## Task List
 - [x] Create a game development catchall.
