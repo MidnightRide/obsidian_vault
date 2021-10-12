@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/commerce/study/running_a_business.md",
+            "file": "README.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/commerce/study/running_a_business.md",
+            "file": "README.md",
             "mode": "preview"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schoolwork/commerce/study/running_a_business.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +118,15 @@
   },
   "active": "77c64e6cde8c067c",
   "lastOpenFiles": [
-    "schoolwork/commerce/study/running_a_business.md",
-    "schoolwork/commerce/study/consumer_and_financial_decisions.md",
-    "schoolwork/science/study/chemical_changes.md",
-    "schoolwork/science/revision/the_big_bang.md",
-    "schoolwork/math/math_study.md",
-    "schoolwork/history/study/women_organisations_in_ww1.md",
-    "schoolwork/history/study/contribution_of_women_ww1.md",
-    "schoolwork/history/study/assesment_task_2_research_task.md",
-    "schoolwork/english/study/poetry_and_romanticism.md",
-    "schoolwork/english/study/romanticism_assesment_task_revision.md"
+    "README.md",
+    "particle_theory_solid.png",
+    "particle_theory_gas.png",
+    "Pasted image 20211012190628.png",
+    "Pasted image 20211012164043.png",
+    "Pasted image 20211012134510.png",
+    "Pasted image 20211008140628.png",
+    "Pasted image 20211007192338.png",
+    "Pasted image 20211007191153.png",
+    "Pasted image 20211007190448.png"
   ]
 }

@@ -34,3 +34,9 @@
 
 ## Describe one Romantic idea explored in the poem 'It is a Beauteous Evening Calm and Free'
 'It is a Beauteous Evening Calm and Free' explores the idea of constant connection between children and nature through the accumulated imagery of 
+
+3 marks - 1 quote
+
+5 marks - 2 quotes
+
+10 marks - 4 quotes total
