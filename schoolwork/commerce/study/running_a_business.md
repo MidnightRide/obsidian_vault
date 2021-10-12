@@ -40,3 +40,5 @@
 - An *unincorporated* business has no seperate legal existence from its owner(s) and will either be a  sole trader or a partnership. This means the business entity and the owner are one and the same. When the owner dies then so too does the business entity.
 - A *sole trader* is a business that is owned and operated by one person.
 - A *partnership*  is a business usually owned and operated by between two and twenty people.
+- A *private company* usually has between two and 50 private owners called shareholders. Often, they are family-owned. A private company must have the words 'Proprietary Limited', abbreviated to *Pty Ltd*. The main advantage of a private company is that it's shareholders have **limited liability**, meaning if the business cannot pay its debts, a shareholder generally only loses the money she has invested in the business.
+- A *public company* can have an unlimted number of shareholders. The shareholders for public companies are listed on the ASX, and the general public may buy and sell shares in those companies. A public company must have the word *Ltd* after their name.
