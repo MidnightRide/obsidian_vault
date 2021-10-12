@@ -25,3 +25,18 @@
 	- *demographics* an examination of a region's demographic pattern will provide a clearer picture of a business's possible customers.
 	- *competition* refers to the rivalry among businesses that try to supply the needs and wants of a market. Businesses need to be mindful of the actions and strategies implemented by their competitors as this can affect sales.
 	- *target markets* refer to the group of customers to whom the business intends to sell its products. Once the target market has been identified, the business concentrates its marketing activities on that group.
+
+## Key features of organisational structures
+- There are five main types of privately owned business entities:
+	- *sole trader*
+	- *partnership*
+	- *private company*
+	- *public company*
+	- *incorporated association*
+- These can be divided into:
+	- *unincorporated business entities*, in the case of sole traders and partnerships	
+	- *incorporated business entities*, in the case of private companies, public companies and incorporated associataions.
+> The term **incorporated** refers to the process companies go through to become a seperate legal entity from the owner/s.
+- An *unincorporated* business has no seperate legal existence from its owner(s) and will either be a  sole trader or a partnership. This means the business entity and the owner are one and the same. When the owner dies then so too does the business entity.
+- A *sole trader* is a business that is owned and operated by one person.
+- A *partnership*  is a business usually owned and operated by between two and twenty people.

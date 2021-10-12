@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/science/study/chemical_changes.md",
+            "file": "schoolwork/commerce/study/running_a_business.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/science/study/chemical_changes.md",
+            "file": "schoolwork/commerce/study/running_a_business.md",
             "mode": "preview"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schoolwork/science/study/chemical_changes.md",
+                "file": "schoolwork/commerce/study/running_a_business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,8 @@
   },
   "active": "77c64e6cde8c067c",
   "lastOpenFiles": [
+    "schoolwork/commerce/study/running_a_business.md",
+    "schoolwork/commerce/study/consumer_and_financial_decisions.md",
     "schoolwork/science/study/chemical_changes.md",
     "schoolwork/science/revision/the_big_bang.md",
     "schoolwork/math/math_study.md",
@@ -125,8 +127,6 @@
     "schoolwork/history/study/contribution_of_women_ww1.md",
     "schoolwork/history/study/assesment_task_2_research_task.md",
     "schoolwork/english/study/poetry_and_romanticism.md",
-    "schoolwork/english/study/romanticism_assesment_task_revision.md",
-    "schoolwork/english/revision/analysing_romantic_and_gothic_paintings.md",
-    "schoolwork/commerce/study/running_a_business.md"
+    "schoolwork/english/study/romanticism_assesment_task_revision.md"
   ]
 }
