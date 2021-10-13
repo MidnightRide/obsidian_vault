@@ -1,4 +1,4 @@
-# Consumer and Financial Decisions
+	# Consumer and Financial Decisions
 ## The Nature of Commerce
 > A **consumer** is someone who purchases *goods* and *services* to satisfy their *needs* and *wants*. 
 

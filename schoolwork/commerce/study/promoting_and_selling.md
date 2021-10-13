@@ -12,3 +12,11 @@
 
 ## Misleading advertising
 - **The Competition and Consumer Act** ensures that all businesses operate and sell in a fair market, while also ensuring that businesses treat customers fairly.
+- The CCA protects kids too by ensuring things such as making sure that advertising must not portray images of unsafe uses goods and services, be misleading or deceptive towards children, promote unhealthy eating and drinking habits etc.
+
+## Product differentiation
+- Factors that make a product unique from others in the market include:
+	- *being able to create a product that is different from others that are in a similar category.*
+	- *finding features in a product that set it apart from others in the market*.
+
+> **Promotional strategy** plan in order to promote a product on different mediums such as social media.	
