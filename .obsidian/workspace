@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/commerce/study/running_a_business.md",
+            "file": "schoolwork/commerce/study/promoting_and_selling.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schoolwork/commerce/study/running_a_business.md",
+            "file": "schoolwork/commerce/study/promoting_and_selling.md",
             "mode": "preview"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schoolwork/commerce/study/running_a_business.md",
+                "file": "schoolwork/commerce/study/promoting_and_selling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,8 +118,8 @@
   },
   "active": "77c64e6cde8c067c",
   "lastOpenFiles": [
-    "schoolwork/commerce/study/running_a_business.md",
     "schoolwork/commerce/study/promoting_and_selling.md",
+    "schoolwork/commerce/study/running_a_business.md",
     "schoolwork/commerce/study/consumer_and_financial_decisions.md",
     "schoolwork/commerce/study/Untitled.md",
     "schoolwork/english/study/romanticism_assesment_task_revision.md",
