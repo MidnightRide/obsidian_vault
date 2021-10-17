@@ -11,14 +11,14 @@
 - [x] Revise protein synthesis.
 - [x] Figure out what is referred to by biology.
 - [x] Start studying genetic inheritance.
-- [ ] Do questions on genetic inheritance.
-- [ ] Do the evidence for evolution, does  not seem like a useful topic right now.
-- [ ] Do a final revision of evolution.
-- [ ] Revise acid - base reactions.
-- [ ] Memorise precipitation  table.
-- [ ] Do questions on waves and refractive indexes etc.
-- [ ] Memorise these formulas for **everything**!!!!
-- [ ] Do questions on frequency.
+- [x] Do questions on genetic inheritance.
+- [x] Do the evidence for evolution, does  not seem like a useful topic right now.
+- [x] Do a final revision of evolution.
+- [x] Revise acid - base reactions.
+- [x] Memorise precipitation  table.
+- [x] Do questions on waves and refractive indexes etc.
+- [x] Memorise these formulas for **everything**!!!!
+- [x] Do questions on frequency.
 
 ### Data Catchall
 | Topic                        | Data                                    | Status | Importance *(Estimations)* |

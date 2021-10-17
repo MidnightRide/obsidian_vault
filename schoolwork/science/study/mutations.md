@@ -4,7 +4,7 @@
 - A mutation of the genetic material is another way that *variation can arise*.
 - Mutations may lead to the **generation of new alleles** in an organism.
 
-> **NOTE** An **allele is one or more alternative forms of a gene.
+> **NOTE** An **allele** is one or more alternative forms of a gene.
 - Mutations may be:
 	- **beneficial**, giving the organism an *adaptive advantage* in terms of *natural selection*.
 	- **neutral** and *have no effect as the amino acid expressed is not changed and hence the protein formed remains unchanged*.

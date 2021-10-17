@@ -1,7 +1,9 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "",
-  "theme": "obsidian",
+  "cssTheme": "Everforest",
+  "theme": "moonstone",
   "translucency": false,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "roboto"
+  ]
 }
