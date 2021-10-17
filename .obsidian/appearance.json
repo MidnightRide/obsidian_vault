@@ -1,9 +1,7 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Golden Coffee",
+  "cssTheme": "",
   "theme": "obsidian",
   "translucency": false,
-  "enabledCssSnippets": [
-    "roboto"
-  ]
+  "enabledCssSnippets": []
 }
