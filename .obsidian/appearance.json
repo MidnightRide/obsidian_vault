@@ -1,7 +1,7 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Everforest",
-  "theme": "moonstone",
+  "cssTheme": "80s Neon",
+  "theme": "obsidian",
   "translucency": false,
   "enabledCssSnippets": [
     "roboto"
